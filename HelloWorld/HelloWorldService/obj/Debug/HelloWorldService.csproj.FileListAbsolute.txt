@@ -1,0 +1,5 @@
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.dll
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.pdb
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HelloWorldService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.pdb

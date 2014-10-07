@@ -1,0 +1,6 @@
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\NorthwindClient\bin\Debug\NorthwindClient.exe.config
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\NorthwindClient\bin\Debug\NorthwindClient.exe
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\NorthwindClient\bin\Debug\NorthwindClient.pdb
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\NorthwindClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\NorthwindClient\obj\x86\Debug\NorthwindClient.exe
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\NorthwindClient\obj\x86\Debug\NorthwindClient.pdb

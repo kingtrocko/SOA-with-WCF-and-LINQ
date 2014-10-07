@@ -1,0 +1,8 @@
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe.config
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.pdb
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HostCmdLineApp\bin\Debug\HelloWorldService.dll
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HostCmdLineApp\bin\Debug\HelloWorldService.pdb
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HostCmdLineApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HostCmdLineApp\obj\x86\Debug\HostCmdLineApp.exe
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\HelloWorld\HostCmdLineApp\obj\x86\Debug\HostCmdLineApp.pdb

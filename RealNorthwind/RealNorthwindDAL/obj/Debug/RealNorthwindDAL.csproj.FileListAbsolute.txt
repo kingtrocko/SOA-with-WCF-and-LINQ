@@ -1,0 +1,7 @@
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\RealNorthwindDAL\bin\Debug\RealNorthwindDAL.dll
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\RealNorthwindDAL\bin\Debug\RealNorthwindDAL.pdb
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\RealNorthwindDAL\bin\Debug\RealNorthwindEntities.dll
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\RealNorthwindDAL\bin\Debug\RealNorthwindEntities.pdb
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\RealNorthwindDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\RealNorthwindDAL\obj\Debug\RealNorthwindDAL.dll
+C:\Users\nfabian\Documents\Visual Studio 2010\Projects\SOAwithWCFandLINQ\RealNorthwind\RealNorthwindDAL\obj\Debug\RealNorthwindDAL.pdb
