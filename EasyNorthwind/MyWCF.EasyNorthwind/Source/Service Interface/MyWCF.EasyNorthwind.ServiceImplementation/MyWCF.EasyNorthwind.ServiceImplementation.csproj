@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{686F5278-7945-45CE-B079-499976BB2863}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyWCF.EasyNorthwind.ServiceImplementation</RootNamespace>
+    <AssemblyName>MyWCF.EasyNorthwind.ServiceImplementation.ServiceImplementation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Core">
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+    </Reference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Compile Include="GeneratedCode\ProductService.cs" />
+    <Compile Include="GeneratedCode\TranslateBetweenProductEntityAndProduct.cs" />
+    <Compile Include="ProductService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Business Logic\MyWCF.EasyNorthwind.BusinessEntities\MyWCF.EasyNorthwind.BusinessEntities.csproj">
+      <Project>{41DD27D4-5B9E-4CFF-9627-E78210CC3657}</Project>
+      <Name>MyWCF.EasyNorthwind.BusinessEntities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Business Logic\MyWCF.EasyNorthwind.BusinessLogic\MyWCF.EasyNorthwind.BusinessLogic.csproj">
+      <Project>{DBBF5C60-2287-44B3-AEB2-3AB0916D4781}</Project>
+      <Name>MyWCF.EasyNorthwind.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyWCF.EasyNorthwind.DataContracts\MyWCF.EasyNorthwind.DataContracts.csproj">
+      <Project>{57719A2A-176D-49DC-A6DB-DFE35991ACFD}</Project>
+      <Name>MyWCF.EasyNorthwind.DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyWCF.EasyNorthwind.FaultContracts\MyWCF.EasyNorthwind.FaultContracts.csproj">
+      <Project>{CE92E5BB-1086-4786-AAE8-C086F9AB61A5}</Project>
+      <Name>MyWCF.EasyNorthwind.FaultContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyWCF.EasyNorthwind.MessageContracts\MyWCF.EasyNorthwind.MessageContracts.csproj">
+      <Project>{877A5768-AE06-4820-B0B0-CFFA616F2190}</Project>
+      <Name>MyWCF.EasyNorthwind.MessageContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyWCF.EasyNorthwind.ServiceContracts\MyWCF.EasyNorthwind.ServiceContracts.csproj">
+      <Project>{2EC105EF-273F-45AD-8D42-4F169828E770}</Project>
+      <Name>MyWCF.EasyNorthwind.ServiceContracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties Roles="ServiceRole" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

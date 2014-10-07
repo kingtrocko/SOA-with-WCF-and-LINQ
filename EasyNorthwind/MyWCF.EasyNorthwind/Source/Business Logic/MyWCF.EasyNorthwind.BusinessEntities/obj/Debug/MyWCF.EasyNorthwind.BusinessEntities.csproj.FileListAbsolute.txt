@@ -1,0 +1,5 @@
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Business Logic\MyWCF.EasyNorthwind.BusinessEntities\bin\Debug\MyWCF.EasyNorthwind.BusinessEntities.BusinessEntities.dll
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Business Logic\MyWCF.EasyNorthwind.BusinessEntities\bin\Debug\MyWCF.EasyNorthwind.BusinessEntities.BusinessEntities.pdb
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Business Logic\MyWCF.EasyNorthwind.BusinessEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Business Logic\MyWCF.EasyNorthwind.BusinessEntities\obj\Debug\MyWCF.EasyNorthwind.BusinessEntities.BusinessEntities.dll
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Business Logic\MyWCF.EasyNorthwind.BusinessEntities\obj\Debug\MyWCF.EasyNorthwind.BusinessEntities.BusinessEntities.pdb

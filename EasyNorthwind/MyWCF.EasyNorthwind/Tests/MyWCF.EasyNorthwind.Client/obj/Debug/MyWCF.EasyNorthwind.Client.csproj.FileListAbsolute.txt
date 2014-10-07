@@ -1,0 +1,10 @@
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\bin\Debug\MyWCF.EasyNorthwind.Client.Client.exe.config
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\bin\Debug\MyWCF.EasyNorthwind.Client.Client.exe
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\bin\Debug\MyWCF.EasyNorthwind.Client.Client.pdb
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\obj\Debug\ResolveAssemblyReference.cache
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\obj\Debug\MyWCF.EasyNorthwind.Client.MainForm.resources
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\obj\Debug\MyWCF.EasyNorthwind.Client.ResultsGrid.resources
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\obj\Debug\GenerateResource.read.1.tlog
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\obj\Debug\GenerateResource.write.1.tlog
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\obj\Debug\MyWCF.EasyNorthwind.Client.Client.exe
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\obj\Debug\MyWCF.EasyNorthwind.Client.Client.pdb

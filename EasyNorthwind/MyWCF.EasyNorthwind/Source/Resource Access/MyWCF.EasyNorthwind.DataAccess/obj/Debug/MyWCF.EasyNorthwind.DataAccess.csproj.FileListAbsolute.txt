@@ -1,0 +1,7 @@
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Resource Access\MyWCF.EasyNorthwind.DataAccess\bin\Debug\MyWCF.EasyNorthwind.DataAccess.DataAccess.dll
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Resource Access\MyWCF.EasyNorthwind.DataAccess\bin\Debug\MyWCF.EasyNorthwind.DataAccess.DataAccess.pdb
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Resource Access\MyWCF.EasyNorthwind.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Resource Access\MyWCF.EasyNorthwind.DataAccess\obj\Debug\MyWCF.EasyNorthwind.DataAccess.DataAccess.dll
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Resource Access\MyWCF.EasyNorthwind.DataAccess\obj\Debug\MyWCF.EasyNorthwind.DataAccess.DataAccess.pdb
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Resource Access\MyWCF.EasyNorthwind.DataAccess\bin\Debug\MyWCF.EasyNorthwind.BusinessEntities.BusinessEntities.dll
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Resource Access\MyWCF.EasyNorthwind.DataAccess\bin\Debug\MyWCF.EasyNorthwind.BusinessEntities.BusinessEntities.pdb

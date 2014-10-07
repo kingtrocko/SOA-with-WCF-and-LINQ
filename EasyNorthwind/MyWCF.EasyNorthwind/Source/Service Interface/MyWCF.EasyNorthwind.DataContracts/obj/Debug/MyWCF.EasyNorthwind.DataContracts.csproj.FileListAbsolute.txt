@@ -1,0 +1,5 @@
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Service Interface\MyWCF.EasyNorthwind.DataContracts\bin\Debug\MyWCF.EasyNorthwind.DataContracts.DataContracts.dll
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Service Interface\MyWCF.EasyNorthwind.DataContracts\bin\Debug\MyWCF.EasyNorthwind.DataContracts.DataContracts.pdb
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Service Interface\MyWCF.EasyNorthwind.DataContracts\obj\Debug\ResolveAssemblyReference.cache
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Service Interface\MyWCF.EasyNorthwind.DataContracts\obj\Debug\MyWCF.EasyNorthwind.DataContracts.DataContracts.dll
+C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Source\Service Interface\MyWCF.EasyNorthwind.DataContracts\obj\Debug\MyWCF.EasyNorthwind.DataContracts.DataContracts.pdb

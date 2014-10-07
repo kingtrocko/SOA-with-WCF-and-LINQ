@@ -1,0 +1,5 @@
+C:\SOAwithWCFandLINQ\EasyNorthwind\EasyNorthwind.Model\bin\Debug\EasyNorthwind.Model.Model.dll
+C:\SOAwithWCFandLINQ\EasyNorthwind\EasyNorthwind.Model\bin\Debug\EasyNorthwind.Model.Model.pdb
+C:\SOAwithWCFandLINQ\EasyNorthwind\EasyNorthwind.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\SOAwithWCFandLINQ\EasyNorthwind\EasyNorthwind.Model\obj\Debug\EasyNorthwind.Model.Model.dll
+C:\SOAwithWCFandLINQ\EasyNorthwind\EasyNorthwind.Model\obj\Debug\EasyNorthwind.Model.Model.pdb

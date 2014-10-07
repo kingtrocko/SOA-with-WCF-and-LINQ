@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hostDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e9e6bb20-aa0e-4444-8912-1591d525f040" namespace="http://EasyNorthwind.Model/2014/EasyNorthwind" xmlns="http://schemas.microsoft.com/dsltools/HostDesigner">
+  <hostApplications>
+    <hostApplication Id="deee0496-1ff9-4117-85fa-71a2b5853c55" name="EasyNorthwindHost" implementationProject="C:\SOAwithWCFandLINQ\EasyNorthwind\MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Host" implementationTechnology="{44e8a8c3-3651-4932-bae3-1faf3684e2f3}|WCF|WCF Extensions">
+      <serviceDescriptions>
+        <serviceReference Id="697b0c8c-4d31-4c01-84f4-5dbcdec1814b" objectExtenderContainer="&lt;?xml version=&quot;1.0&quot;?&gt;&#xD;&#xA;&lt;ObjectExtenderContainer xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;ObjectExtenders xsi:type=&quot;WcfServiceDescription&quot;&gt;&#xD;&#xA;    &lt;IsRequired&gt;true&lt;/IsRequired&gt;&#xD;&#xA;  &lt;/ObjectExtenders&gt;&#xD;&#xA;&lt;/ObjectExtenderContainer&gt;" name="ProductServiceRef" serviceImplementationType="modelbus://Microsoft.Practices.ServiceFactory.ServiceContracts.ServiceContractDslAdapter/ProductService/ProductService/.\ProductService.servicecontract%2fe273df03-ee12-4081-88a5-a4f60214c094">
+          <endpoints>
+            <endpoint Id="1ff90fad-ce4c-4887-bb47-0aa4d72c6e92" objectExtenderContainer="&lt;?xml version=&quot;1.0&quot;?&gt;&#xD;&#xA;&lt;ObjectExtenderContainer xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;ObjectExtenders xsi:type=&quot;WcfEndpoint&quot;&gt;&#xD;&#xA;    &lt;IsRequired&gt;basicHttpBinding&lt;/IsRequired&gt;&#xD;&#xA;  &lt;/ObjectExtenders&gt;&#xD;&#xA;&lt;/ObjectExtenderContainer&gt;" name="ProductEndpoint" />
+          </endpoints>
+        </serviceReference>
+      </serviceDescriptions>
+    </hostApplication>
+  </hostApplications>
+  <clientApplications>
+    <clientApplication Id="b1620875-dfa0-4f65-9c99-42329f258624" name="EasyNorthwindClient" implementationTechnology="{44e8a8c3-3651-4932-bae3-1faf3684e2f3}|WCF|WCF Extensions" implementationProject="MyWCF.EasyNorthwind\Tests\MyWCF.EasyNorthwind.Client\MyWCF.EasyNorthwind.Client.csproj">
+      <proxies>
+        <proxy Id="a148765f-25b2-4080-998e-db31a33c94da" name="EasyNorthwindProxy">
+          <endpoint>
+            <endpointMoniker Id="1ff90fad-ce4c-4887-bb47-0aa4d72c6e92" />
+          </endpoint>
+        </proxy>
+      </proxies>
+    </clientApplication>
+  </clientApplications>
+</hostDesignerModel>

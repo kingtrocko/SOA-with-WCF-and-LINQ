@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ProjectMappingInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" FileName="ProjectMapping.xml" xmlns="http://schemas.microsoft.com/pag/project-mapping">
+  <ProjectMappingTables>
+    <ProjectMappingTable Name="MyWCF.EasyNorthwind">
+      <ProjectMappings>
+        <ProjectMapping ProjectId="41dd27d4-5b9e-4cff-9627-e78210cc3657" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.BusinessEntities">
+          <Roles>
+            <Role Name="BusinessEntityRole" />
+          </Roles>
+        </ProjectMapping>
+        <ProjectMapping ProjectId="dbbf5c60-2287-44b3-aeb2-3ab0916d4781" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.BusinessLogic">
+          <Roles>
+            <Role Name="BusinessLogicRole" />
+          </Roles>
+        </ProjectMapping>
+        <ProjectMapping ProjectId="8e4077a9-fd26-45c7-8068-6d4aa2bdf198" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.DataAccess">
+          <Roles />
+        </ProjectMapping>
+        <ProjectMapping ProjectId="57719a2a-176d-49dc-a6db-dfe35991acfd" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.DataContracts">
+          <Roles>
+            <Role Name="DataContractRole" />
+          </Roles>
+        </ProjectMapping>
+        <ProjectMapping ProjectId="ce92e5bb-1086-4786-aae8-c086f9ab61a5" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.FaultContracts">
+          <Roles>
+            <Role Name="FaultContractRole" />
+          </Roles>
+        </ProjectMapping>
+        <ProjectMapping ProjectId="877a5768-ae06-4820-b0b0-cffa616f2190" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.MessageContracts">
+          <Roles>
+            <Role Name="MessageContractRole" />
+          </Roles>
+        </ProjectMapping>
+        <ProjectMapping ProjectId="686f5278-7945-45ce-b079-499976bb2863" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.ServiceImplementation">
+          <Roles>
+            <Role Name="ServiceRole" />
+          </Roles>
+        </ProjectMapping>
+        <ProjectMapping ProjectId="2ec105ef-273f-45ad-8d42-4f169828e770" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.ServiceContracts">
+          <Roles>
+            <Role Name="ServiceContractRole" />
+          </Roles>
+        </ProjectMapping>
+        <ProjectMapping ProjectId="c2ec16d5-78d5-4ce5-9724-553041807c29" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.Host">
+          <Roles>
+            <Role Name="HostRole" />
+          </Roles>
+        </ProjectMapping>
+        <ProjectMapping ProjectId="5a91f867-47fc-4aac-814a-91c7ef38d784" ProjectPath="\GeneratedCode" ProjectName="MyWCF.EasyNorthwind.Client">
+          <Roles>
+            <Role Name="ClientRole" />
+          </Roles>
+        </ProjectMapping>
+      </ProjectMappings>
+    </ProjectMappingTable>
+  </ProjectMappingTables>
+</ProjectMappingInformation>
